@@ -1,5 +1,5 @@
 1. How to use the application
-  Checkout out the code from github 
+  Checkout out the code from https://github.com/gurulakshman/mytoys
 2. Import in eclipse
 3. Run Maven Clean and Maven install
 4 To start application  select MytoysApplication.java run as -> Java Application
