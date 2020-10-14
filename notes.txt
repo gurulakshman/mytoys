@@ -1,0 +1,24 @@
+1. How to use the application
+  Checkout out the code from github 
+2. Import in eclipse
+3. Run Maven Clean and Maven install
+4 To start application  select MytoysApplication.java run as -> Java Application
+
+How to test url
+1. To get all products
+    Url: http://localhost:8080/product
+    Method: GET
+    
+2. Get product by id
+    Url: http://localhost:8080/product/43664
+    Method: GET
+
+3. Get product by brand
+    Url: http://localhost:8080/product/brand/LEGO
+    Method: GET
+        
+3. Get product by name
+    Url: http://localhost:8080/product/name/LEGO%20%2314362905
+    Method: GET
+        
+  

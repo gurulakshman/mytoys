@@ -1,0 +1,7 @@
+my\toys\controller\MytoysController.class
+my\toys\dto\ProductDto.class
+my\toys\pojos\CsvTransfer.class
+my\toys\service\MytoysService.class
+my\toys\bean\ProductComponent.class
+my\toys\entity\Product.class
+my\toys\MytoysApplication.class
